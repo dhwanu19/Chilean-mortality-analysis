@@ -62,6 +62,3 @@ This project undertakes a detailed analysis of mortality data of annuitants in C
 ### Challenges Overcome
 - **Data Imbalance**: Addressed through robust data cleaning and preprocessing.
 - **Model Selection**: Optimized model performance to enhance predictive accuracy.
-
-## Contact
-For further information or inquiries, please contact Dhwanish Kshatriya at [your-email@example.com].
